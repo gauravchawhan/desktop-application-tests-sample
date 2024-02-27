@@ -43,7 +43,7 @@ set LT_USERNAME=LT_USERNAME
 set LT_ACCESS_KEY=LT_ACCESS_KEY
 ```
 
-#### Execute TestNG tests using Autosplit mechanism on Windows platform
+## Execute TestNG tests using Autosplit mechanism on Windows platform
 
 Run the following command on the terminal to trigger the tests in Java files with HyperExecute platform set to Windows. 
 
