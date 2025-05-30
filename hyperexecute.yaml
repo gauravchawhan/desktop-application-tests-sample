@@ -13,8 +13,7 @@ maxRetries: 1
 concurrency: 3
 
 captureScreenRecordingForScenarios: true
-betaFeature:
-    setPartiallyCompletedAsCompleted: true
+scenarioCommandStatusOnly: true
 
 env:
   # PAT: ${{ .secrets.testKey }}
